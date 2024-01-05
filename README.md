@@ -1,2 +1,2 @@
 # Dev-Lab
-Hello... we are Starting DevOps Journey.
+Hello... we have started DevOps Journey.
